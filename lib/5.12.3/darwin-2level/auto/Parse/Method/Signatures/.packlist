@@ -1,0 +1,17 @@
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/Param.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/Param/Bindable.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/Param/Named.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/Param/Placeholder.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/Param/Positional.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/Param/Unpacked.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/Param/Unpacked/Array.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/Param/Unpacked/Hash.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/ParamCollection.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/Sig.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/TypeConstraint.pm
+/Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3/Parse/Method/Signatures/Types.pm
+/Users/ajb/dev/perl/5.12.3/man/man3/Parse::Method::Signatures.3
+/Users/ajb/dev/perl/5.12.3/man/man3/Parse::Method::Signatures::Param.3
+/Users/ajb/dev/perl/5.12.3/man/man3/Parse::Method::Signatures::Sig.3
+/Users/ajb/dev/perl/5.12.3/man/man3/Parse::Method::Signatures::TypeConstraint.3

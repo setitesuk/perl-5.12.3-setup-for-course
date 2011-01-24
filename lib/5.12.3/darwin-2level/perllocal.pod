@@ -1,0 +1,2816 @@
+=head2 Mon Jan 24 12:14:27 2011: C<Module> L<Params::Util|Params::Util>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:14:30 2011: C<Module> L<Sub::Install|Sub::Install>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.925>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:14:32 2011: C<Module> L<Data::OptList|Data::OptList>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.106>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:15:23 2011: C<Module> L<Scope::Guard|Scope::Guard>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:15:28 2011: C<Module> L<Sub::Exporter|Sub::Exporter>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.982>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:15:30 2011: C<Module> L<Devel::GlobalDestruction|Devel::GlobalDestruction>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:15:46 2011: C<Module> L<List::MoreUtils|List::MoreUtils>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:15:50 2011: C<Module> L<MRO::Compat|MRO::Compat>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:16:32 2011: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.96>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:16:45 2011: C<Module> L<Try::Tiny|Try::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:16:46 2011: C<Module> L<Test::Fatal|Test::Fatal>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.003>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:17:01 2011: C<Module> L<Test::Requires|Test::Requires>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:17:02 2011: C<Module> L<Package::DeprecationManager|Package::DeprecationManager>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:17:06 2011: C<Module> L<Package::Stash|Package::Stash>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:17:20 2011: C<Module> L<Sub::Name|Sub::Name>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:17:23 2011: C<Module> L<Task::Weaken|Task::Weaken>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:17:40 2011: C<Module> L<Class::MOP|Class::MOP>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:19:27 2011: C<Module> L<Moose|Moose>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:19:56 2011: C<Module> L<Perl6::Junction|Perl6::Junction>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.40000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:20:24 2011: C<Module> L<Sub::Uplevel|Sub::Uplevel>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:20:26 2011: C<Module> L<Test::Exception|Test::Exception>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:20:41 2011: C<Module> L<autobox|autobox>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.71>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:20:49 2011: C<Module> L<Moose::Autobox|Moose::Autobox>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:21:42 2011: C<Module> L<Class::Load|Class::Load>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:22:12 2011: C<Module> L<Getopt::Long::Descriptive|Getopt::Long::Descriptive>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.087>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:22:15 2011: C<Module> L<IO::TieCombine|IO::TieCombine>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:22:28 2011: C<Module> L<String::RewritePrefix|String::RewritePrefix>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.006>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:22:31 2011: C<Module> L<App::Cmd|App::Cmd>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.310>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:23:29 2011: C<Module> L<Tree::DAG_Node|Tree::DAG_Node>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:23:50 2011: C<Module> L<Test::Warn|Test::Warn>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:24:01 2011: C<Module> L<MooseX::Getopt|MooseX::Getopt>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.33>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:24:18 2011: C<Module> L<Test::use::ok|Test::use::ok>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:24:21 2011: C<Module> L<MooseX::App::Cmd|MooseX::App::Cmd>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:25:05 2011: C<Module> L<Variable::Magic|Variable::Magic>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:25:07 2011: C<Module> L<B::Hooks::EndOfScope|B::Hooks::EndOfScope>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:25:13 2011: C<Module> L<Sub::Identify|Sub::Identify>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:25:15 2011: C<Module> L<namespace::clean|namespace::clean>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:25:18 2011: C<Module> L<namespace::autoclean|namespace::autoclean>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:25:23 2011: C<Module> L<MooseX::ClassAttribute|MooseX::ClassAttribute>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:25:30 2011: C<Module> L<Tie::ToObject|Tie::ToObject>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:25:35 2011: C<Module> L<Data::Visitor|Data::Visitor>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.27>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:25:37 2011: C<Module> L<Hash::Util::FieldHash::Compat|Hash::Util::FieldHash::Compat>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:25:39 2011: C<Module> L<MooseX::Clone|MooseX::Clone>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:26:11 2011: C<Module> L<Carp::Clan|Carp::Clan>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 6.04>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:26:18 2011: C<Module> L<MooseX::Types|MooseX::Types>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:26:23 2011: C<Module> L<Path::Class|Path::Class>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:26:26 2011: C<Module> L<MooseX::Types::Path::Class|MooseX::Types::Path::Class>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:26:30 2011: C<Module> L<MooseX::ConfigFromFile|MooseX::ConfigFromFile>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:26:54 2011: C<Module> L<MooseX::Daemonize|MooseX::Daemonize>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:27:31 2011: C<Module> L<ExtUtils::Depends|ExtUtils::Depends>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.303>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:27:33 2011: C<Module> L<B::Hooks::OP::Check|B::Hooks::OP::Check>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.18>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:27:38 2011: C<Module> L<Devel::Declare|Devel::Declare>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.006000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:27:48 2011: C<Module> L<Context::Preserve|Context::Preserve>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:27:57 2011: C<Module> L<aliased|aliased>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.30>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:27:59 2011: C<Module> L<MooseX::LazyRequire|MooseX::LazyRequire>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.06>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:28:02 2011: C<Module> L<MooseX::Meta::TypeConstraint::ForceCoercion|MooseX::Meta::TypeConstraint::ForceCoercion>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:29:47 2011: C<Module> L<DateTime::Locale|DateTime::Locale>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.45>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:30:19 2011: C<Module> L<Class::Singleton|Class::Singleton>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.4>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:30:48 2011: C<Module> L<Devel::PartialDump|Devel::PartialDump>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:30:52 2011: C<Module> L<MooseX::Types::DateTime|MooseX::Types::DateTime>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:31:06 2011: C<Module> L<MooseX::Types::Structured|MooseX::Types::Structured>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:31:16 2011: C<Module> L<MooseX::Traits|MooseX::Traits>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:31:33 2011: C<Module> L<Class::Inspector|Class::Inspector>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:31:38 2011: C<Module> L<Clone|Clone>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.31>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:31:41 2011: C<Module> L<File::Remove|File::Remove>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.42>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:31:45 2011: C<Module> L<IO::String|IO::String>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:31:55 2011: C<Module> L<Test::Tester|Test::Tester>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.107>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:31:57 2011: C<Module> L<Test::NoWarnings|Test::NoWarnings>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:32:00 2011: C<Module> L<Test::Object|Test::Object>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:32:08 2011: C<Module> L<Hook::LexWrap|Hook::LexWrap>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.24>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:32:09 2011: C<Module> L<Test::SubCalls|Test::SubCalls>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:32:47 2011: C<Module> L<PPI|PPI>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.213>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:32:58 2011: C<Module> L<Algorithm::Diff|Algorithm::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.1902>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:33:00 2011: C<Module> L<Text::Diff|Text::Diff>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.37>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:33:02 2011: C<Module> L<Test::Differences|Test::Differences>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.500>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:33:07 2011: C<Module> L<Parse::Method::Signatures|Parse::Method::Signatures>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.003013>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:33:17 2011: C<Module> L<Test::Pod|Test::Pod>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.44>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:33:50 2011: C<Module> L<MooseX::Method::Signatures|MooseX::Method::Signatures>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.36>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:34:05 2011: C<Module> L<MooseX::Role::Parameterized|MooseX::Role::Parameterized>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.22>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:34:40 2011: C<Module> L<MooseX::Declare|MooseX::Declare>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.34>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:34:59 2011: C<Module> L<Test::Unit::Lite|Test::Unit::Lite>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:35:00 2011: C<Module> L<Exception::Base|Exception::Base>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.2401>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:35:04 2011: C<Module> L<Symbol::Util|Symbol::Util>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.0202>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:35:08 2011: C<Module> L<constant::boolean|constant::boolean>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:35:09 2011: C<Module> L<Test::Assert|Test::Assert>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.0504>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:35:11 2011: C<Module> L<MooseX::GlobRef|MooseX::GlobRef>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.0701>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:35:15 2011: C<Module> L<MooseX::InsideOut|MooseX::InsideOut>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.105>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:35:34 2011: C<Module> L<MooseX::Iterator|MooseX::Iterator>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.11>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:38:33 2011: C<Module> L<IO::Stringy|IO::Stringy>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.110>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:39:08 2011: C<Module> L<AppConfig|AppConfig>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.66>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:39:23 2011: C<Module> L<Log::Dispatch|Log::Dispatch>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:39:29 2011: C<Module> L<Log::Dispatch::Config|Log::Dispatch::Config>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:39:32 2011: C<Module> L<MooseX::LazyLogDispatch|MooseX::LazyLogDispatch>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:42:50 2011: C<Module> L<Log::Log4perl|Log::Log4perl>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.31>
+
+=item *
+
+C<EXE_FILES: eg/l4p-tmpl>
+
+=back
+
+=head2 Mon Jan 24 12:43:43 2011: C<Module> L<MooseX::Log::Log4perl|MooseX::Log::Log4perl>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.42>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:44:01 2011: C<Module> L<MooseX::LogDispatch|MooseX::LogDispatch>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.2002>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:44:25 2011: C<Module> L<MooseX::NonMoose|MooseX::NonMoose>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.17>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:44:42 2011: C<Module> L<MooseX::Object::Pluggable|MooseX::Object::Pluggable>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.0011>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:45:51 2011: C<Module> L<POE::Test::Loops|POE::Test::Loops>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.036>
+
+=item *
+
+C<EXE_FILES: bin/poe-gen-tests>
+
+=back
+
+=head2 Mon Jan 24 12:47:12 2011: C<Module> L<IO::Tty|IO::Tty>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:49:47 2011: C<Module> L<POE|POE>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.294>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:50:04 2011: C<Module> L<MooseX::POE|MooseX::POE>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.211>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:51:02 2011: C<Module> L<PadWalker|PadWalker>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.92>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:51:04 2011: C<Module> L<Devel::Caller|Devel::Caller>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.05>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:51:09 2011: C<Module> L<MooseX::Params::Validate|MooseX::Params::Validate>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.15>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:51:36 2011: C<Module> L<MooseX::Role::Cmd|MooseX::Role::Cmd>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.10>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:51:39 2011: C<Module> L<MooseX::Role::TraitConstructor|MooseX::Role::TraitConstructor>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.01>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:51:42 2011: C<Module> L<MooseX::SemiAffordanceAccessor|MooseX::SemiAffordanceAccessor>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:52:22 2011: C<Module> L<Config::Any|Config::Any>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.20>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:52:24 2011: C<Module> L<MooseX::SimpleConfig|MooseX::SimpleConfig>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.09>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:52:30 2011: C<Module> L<MooseX::Singleton|MooseX::Singleton>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.25>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:53:04 2011: C<Module> L<Test::Deep|Test::Deep>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.108>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:53:13 2011: C<Module> L<MooseX::Storage|MooseX::Storage>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.29>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:53:28 2011: C<Module> L<MooseX::StrictConstructor|MooseX::StrictConstructor>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:54:10 2011: C<Module> L<Set::Object|Set::Object>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.28>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:54:12 2011: C<Module> L<MooseX::Types::Set::Object|MooseX::Types::Set::Object>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 12:55:08 2011: C<Module> L<MooseX::Workers|MooseX::Workers>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.14>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 14:14:45 2011: C<Module> L<Devel::Symdump|Devel::Symdump>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 14:14:47 2011: C<Module> L<Pod::Coverage|Pod::Coverage>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.21>
+
+=item *
+
+C<EXE_FILES: bin/pod_cover>
+
+=back
+
+=head2 Mon Jan 24 14:15:02 2011: C<Module> L<Test::Pod::Coverage|Test::Pod::Coverage>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.08>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 14:15:05 2011: C<Module> L<Pod::Coverage::Moose|Pod::Coverage::Moose>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 14:15:46 2011: C<Module> L<B::Hooks::OP::PPAddr|B::Hooks::OP::PPAddr>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 14:16:32 2011: C<Module> L<Scope::Upper|Scope::Upper>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.12>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 14:16:43 2011: C<Module> L<TryCatch|TryCatch>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.003000>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 14:16:44 2011: C<Module> L<Task::Moose|Task::Moose>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 14:19:13 2011: C<Module> L<MooseX::Param|MooseX::Param>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 14:21:01 2011: C<Module> L<File::Slurp|File::Slurp>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 9999.13>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jan 24 15:10:14 2011: C<Module> L<List::AllUtils|List::AllUtils>
+
+=over 4
+
+=item *
+
+C<installed into: /Users/ajb/dev/perl/5.12.3/lib/site_perl/5.12.3>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
